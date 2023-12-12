@@ -5,6 +5,8 @@ Below is an itinerary of all the additional resources pulled from, used for insp
 
 ![image](https://github.com/lain-e/SummerFields-mashup/assets/145596963/882433da-44ac-4c8f-81fa-425564a76c9c)
 
+
+Below is the README from the Summerfields team!
 ____________________________________________________________________________________________________________________________________________________________________________
  
  
