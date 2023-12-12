@@ -1,9 +1,12 @@
 Summerfields, cocricot, mizuno's resource pack mashup.
 A forked project of "summerfields" utilizing their basic resource organization structure and a couple assets. Mostly a mishmash of outdated projects. for personal use.
+
+![image](https://github.com/lain-e/SummerFields-mashup/assets/145596963/882433da-44ac-4c8f-81fa-425564a76c9c)
+
 ____________________________________________________________________________________________________________________________________________________________________________
  
  
- [![SummerFields](http://summerfields.info/assets/signature/sign2.png)](http://summerfields.github.io/official/)
+ [![image](http://summerfields.info/assets/signature/sign2.png)](http://summerfields.github.io/official/)
  
  The summerfields pack is not frozen.
 Don't hesitate to request changes.
